@@ -5,6 +5,6 @@
   🎁 We can help many others by collecting as much useful information as possible in one place.  
     
   ✅ If you have any useful information (link, article, source code, printed circuit board, etc.) that will be relevant,
-  just make a PR to the main branch of this repository and it will be added.
+  just make a PR to the main branch or issue to this repository and it will be added.
   
   🙏 We would be grateful for any help from the community!
