@@ -1,20 +1,13 @@
-# Main
+# Welcome
+# to [Zig Dev Wiki](https://zigdevwiki.github.io/main/)
+  📱 The main idea behind this mini-wiki is to make it easier and faster to get to know the gist  
+  for beginners who want to learn how to make DIY Zigbee devices.
 
-## Help
-|||
-|--|--------|
-|✅|[RU zigbee wiki](https://zigbee.wiki/)|
-|❓|[awesome-zigbee](https://github.com/hobbyquaker/awesome-zigbee)|
+  🎁 We can help many others by collecting as much useful information as possible in one place.  
 
-##Usefull links
-[IAR install](https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install)  
-[Apply patch](https://github.com/diyruz/AirSense/blob/master/0001-Fixes.patch)
+  ✅ If you have any useful information (link, article, source code, printed circuit board, etc.) that will be relevant,
+  just make a PR to the main branch or issue to [this](https://github.com/ZigDevWiki/main) repository and it will be added.
 
-##Reference docs
-[zcl-id](https://github.com/zigbeer/zcl-id/wiki#5-table-of-identifiers)  
-[zstack-constants](https://github.com/zigbeer/zstack-constants/wiki#5-table-of-constants)
+  🙏 We would be grateful for any help from the community!
 
-##Coordinators & routers firmware
-[Koenkk](https://github.com/Koenkk/Z-Stack-firmware)  
-[Egony](https://github.com/egony/cc2652p_E72-2G4M20S1E/tree/master/firmware)  
-[Jethome](https://github.com/jethome-ru/zigbee-firmware)  
+  🔵 Let's start from the [beginning](./0_begin/)
