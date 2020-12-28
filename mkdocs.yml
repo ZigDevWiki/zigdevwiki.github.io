@@ -5,7 +5,7 @@ theme:
   logo: assets/logo.png
   palette:
       scheme: slate
-      primary: light green
+      primary: orange
       accent: deep orange
   features:
     - navigation.instant
