@@ -3,16 +3,17 @@
 ##CC2530
 
 ###DIYRuZ
-* [AirSense](https://github.com/diyruz/AirSense)  
-* [flower](https://github.com/diyruz/flower)  
-* [Battery Button](https://github.com/diyruz/reed)  
-* [geiger](https://github.com/diyruz/geiger)  
-* [freepad](https://github.com/diyruz/freepad)  
+* [AirSense](https://github.com/diyruz/AirSense) *HARD  
+* [flower](https://github.com/diyruz/flower) *HARD  
+* [Battery Button](https://github.com/diyruz/reed)   
+* [geiger](https://github.com/diyruz/geiger) *HARD  
+* [freepad](https://github.com/diyruz/freepad)  *HARD  
 * [relay with ds18b20](https://github.com/diyruz/diyruz_rt)    
 
 ###GitHub
+* [ZigUP - Relais, Switch, Sensor and Router](https://github.com/formtapez/ZigUP) *HARD  
 * [wireless lcd sensor network](https://github.com/smileboywtu/ZigbeeLcdStack)  
-* [An open source ZigBee plug for your own smart home](https://github.com/makerdiary/Smart-Plug) *HARD  
+* [An open source ZigBee plug for your own smart home](https://github.com/makerdiary/Smart-Plug) *HARD   
 * [Coordinator and End Devices, Modbus interface](https://github.com/temcocontrols/Zigbee-Tstat8-T3-controllers)  
 * [door lock-lower computer-door lock base station](https://github.com/zigbee-door/zigbee-zstack)  
 * [LEHome Smart Home Zigbee Sensor Module Code](https://github.com/legendmohe/LEHome_zigbee)  
