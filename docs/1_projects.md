@@ -35,5 +35,5 @@
 |JN5168 | [ Light Link, multiple dimmable light endpoints](https://github.com/peeveeone/ZLL_Multi_Endpoint_Dimmable_Light)|
 |JN5168 | [ WS2812 (ZiGate or Philips Hue compatible)](https://github.com/fairecasoimeme/ZigWS2812_controller)|  
   
-##Other protjects  
+##Other projects  
 [Xiaomi Gatewat Hack](https://github.com/T-REX-XP/XiaomiGatewayHack)
