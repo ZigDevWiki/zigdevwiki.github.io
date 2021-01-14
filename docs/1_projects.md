@@ -31,5 +31,9 @@
 |------------|--------------------------------------------|
 |nrf52840 | [RGBW dimmer project ](https://github.com/vke/nrf52840_dimmer_rgbw_zigbee)|
 |JN5169 | [ Better firmware Xiaomi Aqara switches](https://github.com/puddly/zigbee-switch) |
+|JN5169 | [ Xiaomi round button with bind](https://github.com/actg/JN5169-for-xiaomi-wireless-switch) |
 |JN5168 | [ Light Link, multiple dimmable light endpoints](https://github.com/peeveeone/ZLL_Multi_Endpoint_Dimmable_Light)|
-|JN5168 | [ WS2812 (ZiGate or Philips Hue compatible)](https://github.com/fairecasoimeme/ZigWS2812_controller)|
+|JN5168 | [ WS2812 (ZiGate or Philips Hue compatible)](https://github.com/fairecasoimeme/ZigWS2812_controller)|  
+  
+##Other protjects  
+[Xiaomi Gatewat Hack](https://github.com/T-REX-XP/XiaomiGatewayHack)
