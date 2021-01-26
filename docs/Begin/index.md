@@ -1,8 +1,8 @@
-# Begin
+# Start
 
 ##IAR
-[IAR install](https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install)  
-[SDK patch](https://github.com/diyruz/AirSense/blob/master/0001-Fixes.patch)
+[How-to IAR install](./IAR_install/)  
+[Apply SDK patch](./IAR_install/#apply-sdk-patch)
 
 ##Reference docs
 [zcl-id](https://github.com/zigbeer/zcl-id/wiki#5-table-of-identifiers)  

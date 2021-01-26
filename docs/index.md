@@ -10,4 +10,4 @@
 
   🙏 We would be grateful for any help from the community!
 
-  🔵 Let's start from the [beginning](./0_begin/)
+  🔵 Let's start from the [beginning](./Begin/)
