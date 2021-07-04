@@ -36,4 +36,14 @@
 |JN5168 | [ WS2812 (ZiGate or Philips Hue compatible)](https://github.com/fairecasoimeme/ZigWS2812_controller)|  
   
 ##Other projects  
-[Xiaomi Gatewat Hack](https://github.com/T-REX-XP/XiaomiGatewayHack)
+[Xiaomi Gateway Hack](https://github.com/T-REX-XP/XiaomiGatewayHack)
+
+[Xiaomi power plug hack](https://alephsecurity.com/2019/07/01/xiaomi-zigbee-1/)
+
+####ZLL_Lights
+[Article](https://hackaday.io/project/158669/instructions)
+[Github](https://github.com/someone42/ZLL_Lights)
+
+####ZigWS2812
+[Article](https://faire-ca-soi-meme.fr/domotique/2020/02/20/controleur-leds-compatible-zigbee/)
+[Github](https://github.com/fairecasoimeme/ZigWS2812_controller)
