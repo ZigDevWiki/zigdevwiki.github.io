@@ -2,11 +2,14 @@
 
 ##IAR
 [How-to IAR install](./IAR_install)  
-[Apply SDK patch](./IAR_install#apply-sdk-patch)
+[Apply SDK patch](./IAR_install#apply-sdk-patch)  
+
+##Hardware
+[DEV Board used on open source projects DIYRuZ (CHDTECH_DEV)](https://aliexpress.ru/item/33018254469.html)  
 
 ##Reference docs
 [zcl-id](https://github.com/zigbeer/zcl-id/wiki#5-table-of-identifiers)  
-[zstack-constants](https://github.com/zigbeer/zstack-constants/wiki#5-table-of-constants)
+[zstack-constants](https://github.com/zigbeer/zstack-constants/wiki#5-table-of-constants)  
 
 ##Coordinators & routers firmware
 [Koenkk](https://github.com/Koenkk/Z-Stack-firmware)  
