@@ -33,7 +33,9 @@
 |JN5169 | [ Better firmware Xiaomi Aqara switches](https://github.com/puddly/zigbee-switch) |
 |JN5169 | [ Xiaomi round button with bind](https://github.com/actg/JN5169-for-xiaomi-wireless-switch) |
 |JN5168 | [ Light Link, multiple dimmable light endpoints](https://github.com/peeveeone/ZLL_Multi_Endpoint_Dimmable_Light)|
-  
+|JN5169 | [Zigbee 🐝 Router for Xiaomi DGNWG05LM and Aqara ZHWG11LM gateways](https://github.com/igo-r/Lumi-Router-JN5169)
+|JN5169 | [Zigbee 🐝 Router for LM15-SP-WM module](https://github.com/xyzroe/Lumi-Router-JN5169)
+
 ###Other projects  
 [Xiaomi Gateway Hack](https://github.com/T-REX-XP/XiaomiGatewayHack)  
 [Xiaomi Power Plug Hack](https://alephsecurity.com/2019/07/01/xiaomi-zigbee-1/)  
