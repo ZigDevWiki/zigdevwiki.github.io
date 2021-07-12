@@ -1,8 +1,8 @@
 # Start
 
 ##IAR
-[How-to IAR install](./IAR_install/)  
-[Apply SDK patch](./IAR_install/#apply-sdk-patch)
+[How-to IAR install](./IAR_install.html/)  
+[Apply SDK patch](./IAR_install.html/#apply-sdk-patch)
 
 ##Reference docs
 [zcl-id](https://github.com/zigbeer/zcl-id/wiki#5-table-of-identifiers)  
