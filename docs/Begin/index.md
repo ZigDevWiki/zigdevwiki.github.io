@@ -6,6 +6,8 @@
 
 ##Hardware
 [DEV Board used on open source projects DIYRuZ (CHDTECH_DEV)](https://aliexpress.ru/item/33018254469.html)  
+![](./dev_2530.jpg)
+
 
 ##Reference docs
 [zcl-id](https://github.com/zigbeer/zcl-id/wiki#5-table-of-identifiers)  
