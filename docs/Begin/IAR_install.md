@@ -18,7 +18,9 @@ And many other pluses.
 To demonstrate the installation, I installed a clean system to show you how to do it from scratch.
 
 ## Setting up the development environment
-The IAR Embedded Workbench will be used as the development environment, where 8051 is the chip architecture, and not the system version, as you might think. First you need it [download from the link](https://www.iar.com/iar-embedded-workbench#!?architecture=8051)
+The IAR Embedded Workbench will be used as the development environment, where 8051 is the chip architecture, and not the system version, as you might think.  
+
+First you need IAR version **10.30** [download from the link](http://netstorage.iar.com/SuppDB/Protected/PRODUPD/013455/EW8051-10301-Autorun.exe)
 
 ![](https://github.com/sigma7i/zigbee-wiki/blob/master/images/1.png?raw=true)
 
