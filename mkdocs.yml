@@ -1,4 +1,7 @@
 site_name: ZigDevWiki
+site_url: https://zigdevwiki.github.io
+repo_url: https://github.com/ZigDevWiki/zigdevwiki.github.io
+edit_uri: 'edit/main/docs/'
 theme:
   name: material
   favicon: assets/logo.ico
