@@ -142,6 +142,9 @@ We find our folder with the downloaded project, then in the CC2530DB folder we f
 
 ![](https://github.com/sigma7i/zigbee-wiki/blob/master/images/projectFile.png?raw=true)
 
-Select the RouterEB configuration and execute Rebuild All.
+Select correct workspace, DIY_RuZ_[PROJECT NAME] and execute Rebuild All. Profile named CHDTECH_DEV is debug one, and configured for development board
 
-![](https://github.com/sigma7i/zigbee-wiki/blob/master/images/buildAll.png?raw=true)
+![](./workspace.png)
+
+![](./rebuild_all.png)
+
