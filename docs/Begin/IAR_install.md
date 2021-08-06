@@ -1,15 +1,15 @@
-[Original russian how-to](https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install)
-without description of SDK patch applying.  
-Here you can find machine translation and additional description of SDK patch applying.  
+[Original Russian how-to(OUTDATED VERSIONSION)](https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install) is without a description of SDK patch applying.  
 
-### Build zigbee firmware from source.
-In this article I will try to describe the process of building firmware for Zigbee using the IAR Embedded Workbench® for 8051 environment.  
+Here you can find machine translation and an additional description of how to apply the SDK patch.  
+
+### Build Zigbee firmware from source.
+In this article, I will try to describe the process of building firmware for Zigbee using the IAR Embedded Workbench® for 8051 IDE.  
 
 ## Foreword:
 You must immediately answer the question: why not immediately give the firmware? There are many reasons for this:
 
 1. This is contrary to the philosophy of open source: if you want to tweak something, you will not succeed.  
-1. If you find an error / revision / optimization, but the author has abandoned the project for a long time, then without the source code the project will simply “die”.  
+1. If you find an error/revision/optimization, but the author has abandoned the project for a long time, then without the source code the project will simply “die”.  
 1. If you need to change something very simple, for yourself, even not knowing how to program, you can always figure out which numbers are responsible for what.  
 1. When there is open source, and information on how to put everything together, written in an accessible language, there is always an opportunity to experiment with the settings, to figure out what works and how.  
 
@@ -20,7 +20,7 @@ To demonstrate the installation, I installed a clean system to show you how to d
 ## Setting up the development environment
 The IAR Embedded Workbench will be used as the development environment, where 8051 is the chip architecture, and not the system version, as you might think.  
 
-First you need IAR version **10.30** [download from the link](http://netstorage.iar.com/SuppDB/Protected/PRODUPD/013455/EW8051-10301-Autorun.exe)
+First, you need IAR version **10.30** [download from the link](http://netstorage.iar.com/SuppDB/Protected/PRODUPD/013455/EW8051-10301-Autorun.exe)
 
 ![](https://github.com/sigma7i/zigbee-wiki/blob/master/images/1.png?raw=true)
 
@@ -76,9 +76,9 @@ You can immediately generate ssh keys "Generate PuTTy key pair":
 
 ![](https://github.com/sigma7i/zigbee-wiki/blob/master/images/generate.png?raw=true)
 
-Press generate, actively move the mouse / press the keys (the person acts as an RNG)
+Press generate, actively move the mouse/press the keys (the person acts as an RNG)
 After generation, save the "Save private key"
-public key (in the figure it starts with "ssh-rsa AA ..."), copy it to the clipboard (you can also save it if necessary "Save public key")
+the public key (in the figure it starts with "ssh-rsa AA ..."), copy it to the clipboard (you can also save it if necessary "Save public key")
 
 ![](https://github.com/sigma7i/zigbee-wiki/blob/master/images/putty.png?raw=true)
 
@@ -106,13 +106,13 @@ After installing the IAR, you should apply the patch to correctly compile the so
 You can find the patch [here](https://github.com/diyruz/AirSense/blob/master/0001-Fixes.patch)  
 
 
-How-to install:  
+How to install:  
 
 1. Save 0001-Fixes.patch to your Z-stack working directory (C:\Z-Stack 3.0.2)  
 1. Open console at Z-stack working directory  
 1. Run `git apply 0001-Fixes.patch`
 
-## Download source code from repository
+## Download source code from the repository
 An example would be [Zigbee CO2 Sensor](https://github.com/diyruz/AirSense)
 
 and select Code, SSH and click on the copy to clipboard icon:
@@ -142,9 +142,16 @@ We find our folder with the downloaded project, then in the CC2530DB folder we f
 
 ![](https://github.com/sigma7i/zigbee-wiki/blob/master/images/projectFile.png?raw=true)
 
-Select correct workspace, DIY_RuZ_[PROJECT NAME] and execute Rebuild All. Profile named CHDTECH_DEV is debug one, and configured for development board
+Select the correct workspace, DIY_RuZ_[PROJECT NAME] and execute Rebuild All. The profile named CHDTECH_DEV is debugging one and configured for the development board
 
 ![](./workspace.png)
 
 ![](./rebuild_all.png)
 
+
+If you see a bunch of warnings like this:
+
+```
+Warning[w6]: Type conflict for external/entry "putchar", in module ?printf against external/entry in module ?putchar; types have different memory attributes
+
+```
