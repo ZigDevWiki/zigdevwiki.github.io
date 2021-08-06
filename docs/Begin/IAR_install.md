@@ -153,7 +153,6 @@ If you see a bunch of warnings like this:
 
 ```
 Warning[w6]: Type conflict for external/entry "putchar", in module ?printf against external/entry in module ?putchar; types have different memory attributes
-
 ```
 JUST IGNORE THEM
 
