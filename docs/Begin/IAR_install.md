@@ -157,3 +157,6 @@ Warning[w6]: Type conflict for external/entry "putchar", in module ?printf again
 JUST IGNORE THEM
 
 
+After successfull compilation firmaware files will be located in **firmwares** folder
+
+
