@@ -1,4 +1,4 @@
-[Original Russian how-to(OUTDATED VERSIONSION)](https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install) is without a description of SDK patch applying.  
+[Original Russian how-to(OUTDATED VERSION)](https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install) is without a description of SDK patch applying.  
 
 Here you can find machine translation and an additional description of how to apply the SDK patch.  
 
