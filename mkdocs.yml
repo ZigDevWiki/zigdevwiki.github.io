@@ -21,6 +21,9 @@ extra:
     - icon: fontawesome/brands/telegram
       link: https://t.me/xyzroe
       name: '@xyzroe'
+  analytics:
+    provider: google
+    property: UA-203059197-2
 plugins:
   - search:
       lang:
