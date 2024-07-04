@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://zigdevwiki.github.io/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zigdevwiki.github.io/Begin/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zigdevwiki.github.io/Begin/IAR_install/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zigdevwiki.github.io/Begin/cc-tool/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zigdevwiki.github.io/Etc/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zigdevwiki.github.io/Projects/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
